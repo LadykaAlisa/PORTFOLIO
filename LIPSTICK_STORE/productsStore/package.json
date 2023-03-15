@@ -2,7 +2,7 @@
   "name": "productsstore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LadykaAlisa/github.io/PORTFOLIO/LIPSTICK_STORE/productsStore/",
+  "homepage": "https://LadykaAlisa/github.io/PORTFOLIO/LIPSTICK_STORE",
   "dependencies": {
     "-": "^0.0.1",
     "@babel/core": "^7.16.0",
